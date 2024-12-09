@@ -1,3 +1,4 @@
+- [ ] AGPL
 - [ ] Add backspace to gren-tui
 - [ ] Text-entry in gren-tui:
   - [ ] track cursor position
