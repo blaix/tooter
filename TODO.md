@@ -1,0 +1,10 @@
+- [ ] Add backspace to gren-tui
+- [ ] Text-entry in gren-tui:
+  - [ ] track cursor position
+  - [ ] append and move cursor as you type
+  - [ ] delete and move cursor with backspace
+  - [ ] move cursor left/right with left/right arrows
+  - [ ] move cursor to begin/end with up/down arrows
+- [ ] Show remaining character count as you type
+- [ ] Enter to post to mastodon
+- [ ] Support cross-posting to bluesky
